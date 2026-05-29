@@ -19,4 +19,4 @@ Angular, React, TypeScript, Node.js, NestJS, Express, REST API, RxJS, Redux, Jes
 ## Contact
 
 Email: oleksandr.morlock@gmail.com  
-Telegram: @copcoopallie
+Telegram X: @copcoopallie
