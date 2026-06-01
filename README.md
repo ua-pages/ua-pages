@@ -1,22 +1,27 @@
-# Hi, I'm Oleksandr 👋
+# Олександр Васильєв
 
-Senior Full-Stack / Frontend-leaning Developer  
-Angular · TypeScript · Node.js · NestJS · Architecture · Performance
+**Старший універсальний програміст (Frontend-фокус)**  
+🇺🇦 Львів, Україна | Remote / Hybrid  
+oleksandr.morlock@ukr.net | +380 68 678 70 96
 
-I build scalable web applications, clean frontend architectures,
-and backend integrations with Node.js/NestJS.
+## Профіль
+Досвідчений універсальний програміст з фокусом на клієнтській частині та багаторічним досвідом у веб-розробці. Спеціалізуюсь на побудові масштабованих веб-застосунків, архітектурі SPA та SSR рішень, оптимізації продуктивності та технічному лідерстві.
 
-## Featured projects
+## Технічні навички
+- Проєктування клієнтської та серверної частини
+- Інтеграції та API
+- Бази даних
+- CI/CD та автоматизація
+- Тестування
+- AI-інструменти
 
-- Tarot Portfolio — Astro/React/Node.js project with custom UI and API
-- Full-Stack Portfolio — business-oriented landing page for freelance leads
-- Angular/NestJS examples — architecture, auth, REST API, testing
+## Досвід
+**Freelance Software Engineer (2023 — тепер)**  
+- Розробка веб-застосунків та інтеграцій
+- Оптимізація та покращення архітектури
 
-## Main stack
+**Senior Web Developer / Tech Lead (2020 — 2021)**  
+- Архітектура, технічне лідерство, оптимізація
 
-Angular, React, TypeScript, Node.js, NestJS, Express, REST API, RxJS, Redux, Jest
-
-## Contact
-
-Email: oleksandr.morlock@gmail.com  
-Telegram X: @copcoopallie
+## Освіта
+ЛНУ ім. Івана Франка — Магістр
