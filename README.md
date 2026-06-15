@@ -4,7 +4,7 @@
 
 🇺🇦 Львів, Україна
 🌐 Віддалено / Комбіновано
-📧 [oleksandr.morlock@ukr.net](mailto:oleksandr.morlock@gmail.com)
+📧 [oleksandr.morlock@gmail.com](mailto:oleksandr.morlock@gmail.com)
 📱 +380 68 678 70 96
 
 ---
