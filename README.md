@@ -1,34 +1,101 @@
-# ua-pages
+<p align="center">
+  <strong>ua-pages</strong><br>
+  Сучасна веб-розробка для українського бізнесу 🇺🇦
+</p>
 
-Сучасна веб-розробка для українського бізнесу.
+# ua-pages 🇺🇦
+
+## Сучасна веб-розробка для українського бізнесу
 
 Допомагаю українському бізнесу створювати веб-системи швидше та ефективніше завдяки сучасним AI-інструментам розробки.
 
-## Чим можу допомогти
+---
 
-* Бізнес-системи та внутрішні портали
-* CRM та ERP рішення
-* Автоматизація бізнес-процесів
-* Корпоративні веб-додатки
-* MVP для стартапів
-* AI-інтеграції
-* Технічний аудит проєктів
+## Що я створюю
+
+- Бізнес-системи та внутрішні портали
+- CRM та ERP рішення
+- Корпоративні веб-додатки
+- Автоматизацію бізнес-процесів
+- MVP для стартапів
+- AI-інтеграції
+- Індивідуальні веб-рішення
+
+---
+
+## Підхід до розробки
+
+⚡ Zero Dependencies Where Possible
+
+🤖 AI-Assisted Development
+
+📦 Прості рішення замість складних стеків
+
+🚀 Швидка доставка результату
+
+🔧 Довгострокова підтримуваність
+
+---
 
 ## Технології
 
-JavaScript • TypeScript • Angular • Node.js • OpenCode
+JavaScript • TypeScript • Angular • Node.js
 
-## Поточні проєкти
+OpenCode • AI-assisted Development
 
-* 🇺🇦 IT Терміносфера
-* AI-assisted Development Workflows
-* Zero-dependency рішення
-* Open Source проєкти
+Zero Dependencies • Performance First • Maintainability
+
+---
+
+## Open Source
+
+### 🇺🇦 Українські проєкти
+
+- Terminosfera UA — українська IT терміносфера
+- Angular Docs UA — документація Angular українською
+- Інші open-source проєкти для української спільноти
+
+### 🛠️ Інструменти
+
+- Developer Tools
+- Zero-deps рішення
+- Експерименти з AI та OpenCode
+- Власні утиліти та бібліотеки
+
+---
+
+## Чому ua-pages
+
+Сучасна веб-розробка — це не лише вибір фреймворка.
+
+Я допомагаю створювати рішення, які:
+
+- швидко запускаються;
+- легко підтримуються;
+- не обростають зайвими залежностями;
+- залишаються зрозумілими через роки;
+- приносять користь бізнесу, а не лише виглядають технологічно.
+
+---
+
+## Поточний фокус
+
+- AI-assisted Development
+- OpenCode Workflows
+- Zero-dependency Architecture
+- Україномовний Open Source
+- Інструменти для підвищення продуктивності розробки
+
+---
 
 ## Контакти
 
-📧 Email: [oleksandr.morlock@gmail.com](mailto:oleksandr.morlock@gmail.com)
+📧 Email: oleksandr.morlock@gmail.com
 
-💻 GitHub: github.com/ua-pages
+🌐 Portfolio: https://ua-pages.github.io/oleksandr-dev-portfolio/
 
-🌐 Portfolio: ua-pages.github.io/oleksandr-dev-portfolio
+💻 GitHub: https://github.com/ua-pages
+
+---
+
+> ua-pages — сучасна веб-розробка для українського бізнесу 🇺🇦
