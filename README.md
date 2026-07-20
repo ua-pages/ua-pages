@@ -5,7 +5,7 @@
 
 <p align="center">
 Built with LLFF principles:
-Local First • Lightweight First • Fast First • Focused First
+Local First • Lightweight First • Fast First • Focused First (Локально • Легко • Швидко • По суті)
 </p>
 
 Допомагаю українському бізнесу створювати веб-системи швидше та ефективніше завдяки сучасним AI-інструментам розробки.
