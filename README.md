@@ -5,7 +5,7 @@
 
 <p align="center">
 Built with LLFF principles:
-Local First • Lightweight First • Fast First • Focused First </ br> 
+Local First • Lightweight First • Fast First • Focused First <br> 
   (Локально • Легко • Швидко • По суті)
 </p>
 
