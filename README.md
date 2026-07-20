@@ -3,6 +3,11 @@
   Сучасна веб-розробка для українського бізнесу 
 </p>
 
+<p align="center">
+Built with LLFF principles:
+Local First • Lightweight First • Fast First • Focused First
+</p>
+
 Допомагаю українському бізнесу створювати веб-системи швидше та ефективніше завдяки сучасним AI-інструментам розробки.
 
 ---
